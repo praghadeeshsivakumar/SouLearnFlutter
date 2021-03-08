@@ -40,6 +40,7 @@ class _HomePageState extends State<HomePage> {
       });
     });
     super.initState();
+    print("Hello");
   }
 
   @override
