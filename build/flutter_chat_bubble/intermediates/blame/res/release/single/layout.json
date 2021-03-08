@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\learnable\\build\\flutter_chat_bubble\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Praghadeesh\\.gradle\\caches\\transforms-2\\files-2.1\\c1da7862c7abb8e426855a3f78caf221\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\learnable\\build\\flutter_chat_bubble\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Praghadeesh\\.gradle\\caches\\transforms-2\\files-2.1\\c1da7862c7abb8e426855a3f78caf221\\core-1.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\learnable\\build\\flutter_chat_bubble\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Praghadeesh\\.gradle\\caches\\transforms-2\\files-2.1\\c1da7862c7abb8e426855a3f78caf221\\core-1.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\learnable\\build\\flutter_chat_bubble\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Praghadeesh\\.gradle\\caches\\transforms-2\\files-2.1\\c1da7862c7abb8e426855a3f78caf221\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\learnable\\build\\flutter_chat_bubble\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Praghadeesh\\.gradle\\caches\\transforms-2\\files-2.1\\c1da7862c7abb8e426855a3f78caf221\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]
